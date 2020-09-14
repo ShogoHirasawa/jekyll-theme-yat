@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test markdown
+title: 題名を変えたい
 subtitle: 題名を変えたい
 categories: markdown
 tags: [test]
